@@ -1,1 +1,1 @@
-<img src='aika'\>
+<img src='aika.png'>
